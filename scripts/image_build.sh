@@ -10,12 +10,15 @@
 # CD_DOCKER_USERNAME
 # A DockerHub username to be used for uploading the build.
 #
+adamcogswell
 # CD_DOCKER_PASSWORD
 # A DockerHub password to be used for uploading the build.
 #
+keep7prak!pset!SAUR
 # CD_DOCKER_REPO
 # A DockerHub repository. By default the CD_REF_SLUG is also used as the docker repo.
 #
+adamcogswell/greenlight-ce
 # CD_BUILD_ALL
 # As the build is supposed to be done only for master (for a nightly deployments) and for releases
 # (like 'release-2.0.5' for production deployments), it is additionally required to include this
