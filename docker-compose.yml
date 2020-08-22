@@ -4,7 +4,7 @@ services:
   app:
     entrypoint: [bin/start]
     #image: bigbluebutton/greenlight:v2
-    image: adamcogswell/greenlight-ce:master
+    image: adamcogswell/greenlight-ce
     container_name: greenlight
     env_file: .env
     restart: unless-stopped
