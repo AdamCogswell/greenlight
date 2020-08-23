@@ -16,26 +16,26 @@
 
 <div class="container mt-8 mb-6 text-center">
 
-  <h2 class="mb-6">Quick Links</h2>
+  <h2 class="mb-6"><%= t("features.title") %></h2>
 
   <div class="row feature-stamp">
     <div class="col-lg-3 col-md-6">
       <div class="feature-item">
         <div class="stamp bg-primary"><i class="fas fa-chalkboard-teacher fa-2x"></i></div>
-        <h4 class="mt-4"><a href="https://learning.ussoccer.com" target="_blank">Learning Center</a></h4>
+        <h4 class="mt-4"><%= t("features.rooms") %></h4>
       </div>
     </div>
     <div class="col-lg-3 col-md-6">
-      <span class="stamp bg-primary"><i class="fas fa-bug fa-2x"></i></span>
-      <h4 class="mt-4"><a href="https://form.asana.com?hash=ac0ebdfda0f4e7d5835b8a652242f085a2b910227eed6aef2b8c2ea2c9fb4832&id=1189575835231814" target="_blank">Report an Issue</a></h4>
+      <span class="stamp bg-primary"><i class="fas fa-film fa-2x"></i></span>
+      <h4 class="mt-4"><%= t("features.recordings") %></h4>
     </div>
     <div class="col-lg-3 col-md-6">
-      <span class="stamp bg-primary"><i class="fas fa-download fa-2x"></i></span>
-      <h4 class="mt-4"><a href="" target="_blank">Instructor Guide</a></h4>
+      <span class="stamp bg-primary"><i class="fas fa-pencil-alt fa-2x"></i></span>
+      <h4 class="mt-4"><%= t("features.designs") %></h4>
     </div>
     <div class="col-lg-3 col-md-6">
-      <span class="stamp bg-primary"><i class="fas fa-clipboard-check fa-2x"></i></span>
-      <h4 class="mt-4"><a href="" target="_blank">Video Conference Best Practices</a></h4>
+      <span class="stamp bg-primary"><i class="fas fa-door-open fa-2x"></i></span>
+      <h4 class="mt-4"><%= t("features.authentication") %></h4>
     </div>
   </div>
 </div>

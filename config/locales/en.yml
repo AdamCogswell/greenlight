@@ -281,7 +281,7 @@ en:
   footer:
     legal: Terms
     privpolicy: Privacy Policy
-    powered_by: Powered by FOSS technology.
+    powered_by: Powered by FOSS and AWS
   forgot_password:
     subtitle: Forgot Password
     email: Email
@@ -313,7 +313,7 @@ en:
   landing:
     about: "Click the Sign Up button to get started. Once your account has been approved, you will be granted access to the server. By default, every user is allowed to create up to 5 rooms for their use in courses or for federation business. If you have questions, or need further assistance please contact Adam Cogswell at acogswell@ussoccer.org. Use of this system implies your consent to regular review of your account and actions while using this service."
     welcome: U.S. Soccer Coaching Education Video Conferencing
-    video: Coming soon...
+    video: Platform Overview
     upgrade: There is an upgrade available.
     version: A new version is available, but there may be conflicts with the database. An administrator will review and update as necessary.
   language_default: Default (browser language)
